@@ -458,11 +458,11 @@ http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN 3
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES", Afizzionados
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN USA
