@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  11/MAR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y
+************************  11/MAR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE
 
 #EXTINF:-1 group-title="México", UPDATED 11 DE MAR 12:00 HRS
 https://zzzz.zzz
@@ -10,8 +10,7 @@ https://zzzz.zzz
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/8c70951/2147483647/strip/true/crop/1920x1080+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F10%2F57%2Fee810ae644028eb1793e34aeeb1f%2Flogo-uno.png" group-title="México", AZTECA UNO -1 HR
 #EXTVLCOPT--http-reconnect=true
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
-***** https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="México", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -32,28 +31,16 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="México", IMAGEN TV
 #EXTVLCOPT--http-reconnect=true
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="México", IMAGEN TV
-#EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="México", CANAL 5
 #EXTVLCOPT--http-reconnect=true
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="México", CANAL 5
-#EXTVLCOPT--http-reconnect=true
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="México", MULTIMEDIOS MTY
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png" group-title="México", AZTECA 7
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png" group-title="México", AZTECA 7 2
-#EXTVLCOPT--http-reconnect=true
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png" group-title="México", AZTECA 7 3
-#EXTVLCOPT--http-reconnect=true
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="México", ONCE
 #EXTVLCOPT--http-reconnect=true
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -92,23 +79,13 @@ https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México" group-title="México", N+ MTY
 #EXTVLCOPT--http-reconnect=true
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-***** https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="México", GOLDEN
 #EXTVLCOPT--http-reconnect=true
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="México", GOLDEN
-#EXTVLCOPT--http-reconnect=true
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="México", GOLDEN
-#EXTVLCOPT--http-reconnect=true
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="México", GOLDEN PLUS
 #EXTVLCOPT--http-reconnect=true
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="México", GOLDEN PLUS
-#EXTVLCOPT--http-reconnect=true
-https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="México", GOLDEN PREMIER
 #EXTVLCOPT--http-reconnect=true
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
@@ -127,9 +104,6 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ae9e39_e3e155b656ca4bbf913ff80b1e7d5ea5~mv2.jpeg/v1/fill/w_967,h_967,al_c/ae9e39_e3e155b656ca4bbf913ff80b1e7d5ea5~mv2.jpeg" group-title="México", MARIA VISION
 #EXTVLCOPT--http-reconnect=true
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ae9e39_e3e155b656ca4bbf913ff80b1e7d5ea5~mv2.jpeg/v1/fill/w_967,h_967,al_c/ae9e39_e3e155b656ca4bbf913ff80b1e7d5ea5~mv2.jpeg" group-title="México", MARIA VISION CAPILLA
-#EXTVLCOPT--http-reconnect=true
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg" group-title="México",EWTN
 #EXTVLCOPT--http-reconnect=true
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -142,25 +116,20 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS", CANAL 57 USA
 #EXTVLCOPT--http-reconnect=true
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="LATINOS", UNIVISION LATAM
-#EXTVLCOPT--http-reconnect=true
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="lATINOS", TELEMUNDO LATAM
 #EXTVLCOPT--http-reconnect=true
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.png" group-title="USA", CNN
 #EXTVLCOPT--http-reconnect=true
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="Comedia", ComedyC
-http://181.78.105.146:2000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Niños", CartoonNetwork
-http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="Comedia", Comedy Central
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Niños", Cartoon Network
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Niños", Discovery kids
-http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Niños", NICKELODEON
-http://181.78.105.146:2000/play/a014/index.m3u8
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Niños", NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Interes", DH&H
 http://181.78.105.146:2000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Canales de Películas y series", TNTSE
@@ -168,37 +137,34 @@ http://181.78.105.146:2000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Canales de Películas y series", TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Canales de Películas y series",SONY
-http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/8c70951/2147483647/strip/true/crop/1920x1080+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F10%2F57%2Fee810ae644028eb1793e34aeeb1f%2Flogo-uno.png" group-title="LATINOS",Uno
-http://181.78.105.146:2000/play/a04p/index.m3u8
+http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Canales de Películas y series",WB
-http://181.78.105.146:2000/play/a01f/index.m3u8
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Canales de Películas y series",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="Canales de Películas y series",FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
+http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_space_m.png" group-title="Canales de Películas y series",Space MX
-http://181.78.105.146:2000/play/a04x/index.m3u8
+http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/AE-Logo-1995.png" group-title="Canales de Películas y series",A&E
-http://181.78.105.146:2000/play/a03f/index.m3u8
+http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Interes",Investigation Discovery La
-http://181.78.105.146:2000/play/a04y/index.m3u8
+http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="USA",TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="USA",Lifetime
 http://181.78.105.146:2000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="México",HOLA
-http://181.78.105.146:2000/play/a00n/index.m3u8
+http://45.166.92.22:58001/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Espectáculos",E!
-http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Música",VideRola
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="Música",Video Rola
 http://181.78.105.146:2000/play/a04c/index.m3u8
-http://181.78.105.146:2000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png" group-title="Niños",OnceKids
-http://181.78.105.146:2000/play/a04f/index.m3u8
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" group-title="Niños",DisneyJR
 http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Aprende-TV-en-vivo-Online.png" group-title="Niños",AprendeTV2
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Aprende-TV-en-vivo-Online.png" group-title="Niños",Aprende TV
 http://181.78.105.146:2000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://agronoticias.com.mx/wp-content/uploads/2020/06/LOGO-IngenioTV.png" group-title="Interes",IngenioTV
 http://181.78.105.146:2000/play/a04i/index.m3u8
@@ -210,18 +176,14 @@ http://181.78.105.146:2000/play/a01l/index.m3u8
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Interes",History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ART_Television_%28Sri_Lanka%29_%28logo%29.png" group-title="Interes",Arts
-http://181.78.105.146:2000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.png" group-title="LATINOS",CNNE
-http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Canales de Películas y series",CineCanal O
-http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Canales de Películas y series",Films
-http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Canales de Películas y series",StudioUniversal
-http://181.78.105.146:2000/play/a04o/index.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Canales de Películas y series",Cine Canal
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Canales de Películas y series",Studio Universal
+http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png" group-title="Canales de Películas y series",Paramount
-http://181.78.105.146:2000/play/a01s/index.m3u8
+http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="Canales de Películas y series", DE PELICULA
 http://181.78.105.146:2000/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Comedia", Distrito Comedia
@@ -232,58 +194,58 @@ http://181.78.105.146:2000/play/a08k/index.m3u8
 http://181.78.105.146:2000/play/a097/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" group-title="México", TELENOVELAS
 http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png" group-title="Música", Tele Hit
-http://181.78.105.146:2000/play/a091/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png" group-title="Música", TeleHit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="LATINOS", Telemundo Miami
 http://181.78.105.146:2000/play/a096/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="México", UNICABLE
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="Canales de Películas y series",AMC
-http://livex.pop-app.live/s4n/poplive/ch549/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Interes",ANIMAL PLANET
-http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="Caricaturas",BOOMERANG
 http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="Interes",COOKING CHANNEL
 http://livex.pop-app.live/s4n/poplive/ch521/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="Interes",DISCOVERY
-http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="Interes",DISCOVERY FAMILY
-http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="Interes",DISCOVERY ID LAT
-http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+http://45.166.92.22:58001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="Interes",DISCOVERY TURBO LAT
 http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Espectáculos",E!
 http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Interes",FOOD NETWORK
-http://livex.pop-app.live/s4n/poplive/ch211/playlist.m3u8
+http://190.61.55.186:1010/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="Canales de Películas y series",FX LAT
 http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="Canales de Películas y series",FXX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="Canales de Películas y series",FX Movies
 http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/grit-tv-logo-A7609942CD-seeklogo.com.png" group-title="USA",GRIT
-http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/919px-Discovery_Home_%26_Health_logo.svg.png" group-title="Interes",H&H LAT
-http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
+http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1280px-Hallmark_logo.svg.png" group-title="Interes",Hallmark
 http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png" group-title="Canales de Películas y series",HBO FAMILY
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png" group-title="Canales de Películas y series",HBO FAMILY LAT
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Canales de Películas y series",HBO
+http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canales de Películas y series",HBO PLUS LAT
-http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+http://45.166.92.22:58001/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="Canales de Películas y series",HBO SIGNATURE LAT
 http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Interes",HG TV
-http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
+http://138.59.177.34:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/the-history-channel-new-20211861.jpg" group-title="Interes",HISTORY
-http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/the-history-channel-new-20211861.jpg" group-title="Interes",HISTORY
-http://livex.pop-app.live/s4n/poplive/ch342/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/the-history-channel-new-20211861.jpg" group-title="Interes",HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/the-history-channel-new-20211861.jpg" group-title="Interes",HISTORY MX
-http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
+http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/919px-Discovery_Home_%26_Health_logo.svg.png" group-title="Interes",HOME AND HEALTH LAT
 http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="USA",ION
@@ -291,27 +253,25 @@ http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/2560px-I.Sat_logo.svg.png" group-title="Canales de Películas y series",ISAT LAT
 http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="Interes",LIFETIME
-http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/2560px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Interes",MAS CHIC LAT
 http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/MeTV_logo_2014.png" group-title="Canales de Películas y series",ME TV
 http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="Interes",NAT GEO
-http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="Interes",NAT GEO LAT
 http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="Caricaturas",NICK TOONS
 http://livex.pop-app.live/s4n/poplive/ch513/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Caricaturas",NICKELODEON LAT
-http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="Interes",outdoor
-http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="Interes",OUTDOOR
-http://livex.pop-app.live/s4n/poplive/ch216/playlist.m3u8
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png" group-title="Canales de Películas y series",PARAMOUNT NETWORK
-http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Canales de Películas y series",SONY LAT
-http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="Canales de Películas y series",TBS
 http://livex.pop-app.live/s4n/poplive/ch212/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="LATINO",TELEMUNDO
@@ -319,9 +279,9 @@ http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="LATINOS",TLC LAT
 http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Canales de Películas y series",TNT
-http://livex.pop-app.live/s4n/poplive/ch337/playlist.m3u8
+http://45.166.92.22:58001/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Canales de Películas y series",TNT SERIES LAT
-http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+http://45.166.92.22:58001/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="Interes",TRAVEL CHANNEL
 http://livex.pop-app.live/s4n/poplive/ch558/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="Interes",TRUE CRIME
@@ -329,7 +289,7 @@ http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTES",UFC
 http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="LATINOS",UNIVISION
-http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/38/e6/e4/38e6e4c5-ef96-46cb-b441-0e80d8fa99bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" group-title="DEPORTES", TIGO SPORTS
 #EXTVLCOPT--http-reconnect=true
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -345,12 +305,6 @@ https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES", AFIZZIONADOS
 #EXTVLCOPT--http-reconnect=true
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN
-#EXTVLCOPT--http-reconnect=true
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN
-#EXTVLCOPT--http-reconnect=true
-https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES", ADRENALINA
 #EXTVLCOPT--http-reconnect=true
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
@@ -372,13 +326,13 @@ https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FUTBOL 5
 #EXTVLCOPT--http-reconnect=true
 https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", FUTBOL 6
+#EXTINF:-1 group-title="DEPORTES", VIX|TUDN
 #EXTVLCOPT--http-reconnect=true
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FUTBOL 7
 #EXTVLCOPT--http-reconnect=true
 https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", FUTBOL 8
+#EXTINF:-1 group-title="DEPORTES", VIX|TUDN 2
 #EXTVLCOPT--http-reconnect=true
 https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FUTBOL 9
@@ -450,31 +404,26 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FUTBOL 31
 #EXTVLCOPT--http-reconnect=true
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", FUTBOL 32
-#EXTVLCOPT--http-reconnect=true
-https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN | HD
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN 2 | HD
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN 3
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 HD
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 HD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES", Afizzionados
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN USA
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX DEPORTES
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FS1 US
 http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="DEPORTES",FS2 USA
 http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES",MLB NETWORK
-http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="DEPORTES",NBATV
 http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1005px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES",NBCS SPORTS
