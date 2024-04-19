@@ -304,16 +304,10 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES", AFIZZIONADOS
 #EXTVLCOPT--http-reconnect=true
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+http://199.223.255.67:8080/images/admin/progress/47849_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES", AFIZZIONADOS 2
 #EXTVLCOPT--http-reconnect=true
-http://iptvcanales.gq/canales/tvfree/30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES", AFIZZIONADOS 3
-#EXTVLCOPT--http-reconnect=true
-http://iptvhd.club:25461/live/iptvvall/yccZ1oYXYa/232.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES", AFIZZIONADOS 4
-#EXTVLCOPT--http-reconnect=true
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+http://199.223.255.67:8080/images/admin/progress/47848_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES", ADRENALINA
 #EXTVLCOPT--http-reconnect=true
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
