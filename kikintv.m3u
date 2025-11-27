@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  11/MAR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE
 
 #EXTINF:-1 group-title="México", UPDATED 11 DE MAR 12:00 HRS
 https://zzzz.zzz
@@ -14,9 +13,6 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="México", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-***** https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México", LAS ESTRELLAS MX
 #EXTVLCOPT--http-reconnect=true
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
@@ -68,16 +64,16 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="México", UNIVISION 24/7
 #EXTVLCOPT--http-reconnect=true
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México" group-title="México", N+ MEDIA
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México", N+ MEDIA
 #EXTVLCOPT--http-reconnect=true
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México" group-title="México", N+ MEDIA
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México", N+ MEDIA
 #EXTVLCOPT--http-reconnect=true
 https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México" group-title="México", N+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México", N+
 #EXTVLCOPT--http-reconnect=true
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México" group-title="México", N+ MTY
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="México", N+ MTY
 #EXTVLCOPT--http-reconnect=true
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="México", GOLDEN
