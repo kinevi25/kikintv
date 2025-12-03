@@ -301,4 +301,4 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN
 #EXTVLCOPT--http-reconnect=true
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+https://dai.google.com/linear/hls/pa/event/jUl_NVMySCaVcryWMzbNig/stream/762b8346-97c9-497d-9bc0-3e6e837e694c:BRU/master.m3u8
